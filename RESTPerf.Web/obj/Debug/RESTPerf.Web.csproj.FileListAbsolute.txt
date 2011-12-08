@@ -1,0 +1,7 @@
+C:\Users\EMB\Desktop\GitHub\RESTPerf\RESTPerf.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\EMB\Desktop\GitHub\RESTPerf\RESTPerf.Web\bin\RESTPerf.Web.dll
+C:\Users\EMB\Desktop\GitHub\RESTPerf\RESTPerf.Web\bin\RESTPerf.Web.pdb
+C:\Users\EMB\Desktop\GitHub\RESTPerf\RESTPerf.Web\bin\EntityFramework.dll
+C:\Users\EMB\Desktop\GitHub\RESTPerf\RESTPerf.Web\bin\EntityFramework.xml
+C:\Users\EMB\Desktop\GitHub\RESTPerf\RESTPerf.Web\obj\Debug\RESTPerf.Web.dll
+C:\Users\EMB\Desktop\GitHub\RESTPerf\RESTPerf.Web\obj\Debug\RESTPerf.Web.pdb
